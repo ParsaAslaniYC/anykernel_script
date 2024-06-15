@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=
+kernel.string=CatKernel V1.5 5.15.148 [Codename]
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -13,6 +13,8 @@ do.cleanuponabort=0
 device.name1=topaz
 device.name2=tapas
 device.name3=xun
+device.name4=sapphire
+device.name5=sapphiren
 supported.versions=13 - 14.1
 '; } # end properties
 
