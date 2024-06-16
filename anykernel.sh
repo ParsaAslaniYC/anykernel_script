@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=CatKernel V1.5 5.15.148 [Codename]
+kernel.string=CatKernel V1.6 5.15.148 [Codename]
 do.devicecheck=1
 do.modules=0
 do.systemless=1
