@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=CatKernel 6.1.25 [Veyron]
+kernel.string=CatKernel 5.15.152 | TheTruth 2.0
 do.devicecheck=1
 do.modules=0
 do.systemless=1
