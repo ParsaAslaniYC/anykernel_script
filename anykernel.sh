@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=CatKernel 5.15.152 | TheTruth 2.0
+kernel.string=CatKernel 5.15.152 | TheTruth 2.0 | GKI
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,9 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=topaz
 device.name2=tapas
-device.name3=xun
-device.name4=sapphire
-device.name5=sapphiren
+device.name3=sapphire
+device.name4=sapphiren
 supported.versions=13 - 14.1
 '; } # end properties
 
