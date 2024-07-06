@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=CatKernel 5.15.152 | TheTruth 2.0 | GKI
+kernel.string=6.1.96 | ImWolfYou 1.0 | GKI
 do.devicecheck=1
 do.modules=0
 do.systemless=1
