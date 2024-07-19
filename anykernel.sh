@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Yapin\' Kernel 1.0 5.15.151
+kernel.string=Yapin Kernel 1.0 5.15.151
 do.devicecheck=1
 do.modules=0
 do.systemless=1
