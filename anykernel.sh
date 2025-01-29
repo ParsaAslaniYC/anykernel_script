@@ -4,17 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Yapin Kernel 1.0 5.15.151
+kernel.string=HYdra Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=topaz
-device.name2=tapas
-device.name3=sapphire
-device.name4=sapphiren
-supported.versions=13 - 14.1
+device.name1=ingres
+device.name2=
+device.name3=
+device.name4=
+supported.versions=12 - 13 - 14 - 14.1 - 15 - 15.1
 '; } # end properties
 
 # shell variables
